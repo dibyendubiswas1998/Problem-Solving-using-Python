@@ -1,1 +1,1 @@
-# Problem-Solving-using-Python
+# Problem Solving using Python
